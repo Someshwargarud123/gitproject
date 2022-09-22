@@ -1,14 +1,11 @@
-i am somesh
-vgbsd
-
-dd
-dd
-d
-dd
-d
-
-dd
-d
-d
-d
-d
+My name is Rameshwar
+i am from pohegaon
+git
+gitbash
+docker
+aws
+python
+dkango
+ml
+pyspark
+numpy
